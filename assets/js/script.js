@@ -26,3 +26,7 @@ function sendMoney(){
 
 //Adarsh Rai
 //XYZ
+//abcd 
+//Money is power
+//power is power
+//Knowledge is power

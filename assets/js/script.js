@@ -24,9 +24,15 @@ function sendMoney(){
    }
 }
 
-//Adarsh Rai
-//XYZ
-//abcd 
-//Money is power
-//power is power
-//Knowledge is power
+//Adarsh Rai 
+/*
+Money is power!!
+
+Power is power!!
+
+Knowledge is power!!
+
+
+username:- "adarshrai8969@gmail.com"
+password:- "Adarsh@11111"
+*/

@@ -9,9 +9,9 @@ function sendMoney(){
    } else {
       var findUserBankAccount = enterName + "BankBalance";
       var finalAmount = parseInt(document.getElementById(findUserBankAccount).innerHTML) + enterAmount;
-      var myAccountBalance = parseInt(document.getElementById("myAccountBalance").innerText) - enterAmount
+      var myAccountBalance = parseInt(document.getElementById("myAccountBalance").innerText) - enterAmount;
       document.getElementById("myAccountBalance").innerText = myAccountBalance
-      document.getElementById(findUserBankAccount).innerHTML = finalAmount;
+      document.getElementById(findUserBankAccount).innerHTML = finalAmount
       alert(`Successful Transaction !!  
       $${enterAmount} is sent to ${enterName}@email.com.`)
 

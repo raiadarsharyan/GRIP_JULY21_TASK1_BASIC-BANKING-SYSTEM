@@ -23,16 +23,3 @@ function sendMoney(){
       element.insertBefore(createPTag, element.firstChild);
    }
 }
-
-//Adarsh Rai 
-/*
-Money is power!!
-
-Power is power!!
-
-Knowledge is power!!
-
-
-username:- adarshrai8969@gmauil=
-password:-
-*/
